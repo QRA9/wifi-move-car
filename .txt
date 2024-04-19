@@ -1,0 +1,1 @@
+使用Keil5,stm32F103VET6开发板，370霍尔编码器1：30减速电机，wifi通信使用esp8266wifi模块，ip和wifi在esp8266_text.h中修改
